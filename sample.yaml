@@ -2,9 +2,9 @@
 
 sessions:
     - prefixes: ["NASDAQ"]
-      date: ["2018-02-28"]
+      date: "2018-02-28"
       session: "0930-1500"
 
     - groups: ["amex_idc"]
-      date: ["2018-03-08"]
+      date: "2018-03-08"
       session: holiday
