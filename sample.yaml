@@ -3,7 +3,10 @@
 sessions:
     - prefixes: ["NASDAQ"]
       date: "2018-02-28"
-      session: "0930-1500"
+      session:
+        premarket: undefined
+        market: "0930-1500"
+        postmarket: undefined
 
     - groups: ["amex_idc"]
       date: "2018-03-08"
