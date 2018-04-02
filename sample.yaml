@@ -11,4 +11,3 @@ sessions:
     - groups: ["amex_idc"]
       date: "2018-03-08"
       session: holiday
-
