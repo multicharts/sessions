@@ -1,5 +1,6 @@
 ---
 
+
 sessions:
     - prefixes: ["NASDAQ", "NYSE"]
       date: "2018-02-28"
