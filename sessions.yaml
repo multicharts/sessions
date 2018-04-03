@@ -4,7 +4,7 @@ sessions:
     - prefixes: ["NASDAQ"]
       date: "2018-02-28"
       session:
-        prem_arket: undefined
+        pre market: undefined
         market: "0930-1500"
         post_market: undefined
 
