@@ -7,7 +7,7 @@ sessions:
         premarket: undefined
         market: "0930-1500"
         postmarket: undefined
-
-    - groups: ["amex_idc"]
-      date: "2018-03-08"
+    
+    - prefixes: ["NASDAQ"]
+      date: "2018-04-04"
       session: holiday
