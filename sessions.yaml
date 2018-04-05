@@ -2,15 +2,16 @@
 
 sessions:
     - prefixes: ["NASDAQ"]
-      date: "2018-02-28"
-      session:
-        premarket: undefined
-        market: "0930-1500"
-        postmarket: undefined
-
-    - prefixes: ["NASDAQ"]
       date: "2018-04-05"
       session:
         premarket: undefined
         market: "0000-1000"
         postmarket: "1000-1700"
+    
+    - prefixes: ["FX"]
+      date: "2018-04-05"
+      session: holiday
+      
+     - prefixes: ["FX"]
+      date: "2018-04-06"
+      session: holiday
