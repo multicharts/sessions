@@ -16,6 +16,6 @@ sessions:
       date: "2018-04-05"
       session: holiday
       
-     - prefixes: ["FX"]
+    - prefixes: ["FX"]
       date: "2018-04-06"
       session: holiday
