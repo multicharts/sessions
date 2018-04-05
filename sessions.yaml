@@ -8,10 +8,10 @@ sessions:
         market: "0000-1000"
         postmarket: "1000-1700"
     
-    - prefixes: ["FX"]
+    - prefixes: ["FXCM"]
       date: "2018-04-04"
       session: holiday
     
-    - prefixes: ["FX"]
+    - prefixes: ["FXCM"]
       date: "2018-04-05"
       session: holiday
