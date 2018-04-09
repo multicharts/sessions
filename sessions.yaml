@@ -9,7 +9,7 @@ sessions:
         postmarket: "1000-1700"
     
     - prefixes: ["FXCM"]
-      date: "2018-04-06"
+      date: "2018-04-09"
       session: holiday
     
     - prefixes: ["FXCM"]
