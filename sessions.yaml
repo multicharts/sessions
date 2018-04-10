@@ -16,6 +16,6 @@ sessions:
       date: "2018-04-05"
       session: holiday
     
-     - prefixes: ["SZSE"]
+    - prefixes: ["SZSE"]
       date: "2018-04-10"
       session: holiday
