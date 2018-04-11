@@ -40,3 +40,6 @@ sessions:
       date: "2018-04-11"
       session: holiday
 
+    - prefixes: ["MOEX"]
+      date: "2018-04-12"
+      session: holiday
