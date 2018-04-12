@@ -39,3 +39,7 @@ sessions:
     - prefixes: ["MOEX"]
       date: "2018-04-12"
       session: holiday
+      
+    - prefixes: ["XETR"]
+      date: "2018-04-12"
+      session: holiday
