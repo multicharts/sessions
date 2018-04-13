@@ -55,7 +55,7 @@ sessions:
       date: "2018-04-13"
       session:
         premarket: undefined
-        market: "1300-1437"
+        market: "1445-1500"
         postmarket: undefined
         
     - prefixes: ["BITFINEX"]
