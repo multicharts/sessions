@@ -63,4 +63,11 @@ sessions:
       session:
         premarket: undefined
         market: "0100-0200"
-        postmarket: "1300-2000"   
+        postmarket: "1300-2000"
+        
+    - prefixes: ["SZSE"]
+      date: "2018-04-13"
+      session:
+        premarket: "0000-1800"
+        market: undefined
+        postmarket: undefined 
