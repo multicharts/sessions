@@ -43,3 +43,24 @@ sessions:
     - prefixes: ["XETR"]
       date: "2018-04-12"
       session: holiday
+     
+    - prefixes: ["KRAKEN"]
+      date: "2018-04-13"
+      session:
+        premarket: "1700-1900"
+        market: "1900-2000"
+        postmarket: "2000-2100"
+        
+    - prefixes: ["CEXIO"]
+      date: "2018-04-13"
+      session:
+        premarket: undefined
+        market: "1500-2000"
+        postmarket: undefined
+        
+    - prefixes: ["BITFINEX"]
+      date: "2018-04-13"
+      session:
+        premarket: undefined
+        market: "0100-0200"
+        postmarket: "1500-2000"   
