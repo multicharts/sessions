@@ -44,4 +44,23 @@ sessions:
       date: "2018-04-12"
       session: holiday
      
- 
+    - prefixes: ["NASDAQ"]
+      date: "2018-04-14"
+      session:
+         pre_market: "0400-0930",
+         market: "0930-1600",
+         post_market: "1600-2000"
+         
+    - prefixes: ["MOEX"]
+      date: "2018-04-14"
+      session:
+        premarket: "0900-1200"
+        market: "1200-1500"
+        postmarket: "1500-1700"
+        
+    - prefixes: ["KRAKEN"]
+      date: "2018-04-14"
+      session:
+        premarket: "1300-1600"
+        market: "1600-1800"
+        postmarket: "1800-2300"
