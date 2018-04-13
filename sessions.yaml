@@ -47,8 +47,8 @@ sessions:
     - prefixes: ["NASDAQ"]
       date: "2018-04-14"
       session:
-         pre_market: "0400-0930",
-         market: "0930-1600",
+         pre_market: "0400-0930"
+         market: "0930-1600"
          post_market: "1600-2000"
          
     - prefixes: ["MOEX"]
