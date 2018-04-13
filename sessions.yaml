@@ -44,30 +44,4 @@ sessions:
       date: "2018-04-12"
       session: holiday
      
-    - prefixes: ["KRAKEN"]
-      date: "2018-04-13"
-      session:
-        premarket: "1400-1900"
-        market: "1900-2000"
-        postmarket: "2000-2100"
-        
-    - prefixes: ["CEXIO"]
-      date: "2018-04-13"
-      session:
-        premarket: undefined
-        market: "1445-1500"
-        postmarket: "1500-1700"
-        
-    - prefixes: ["BITFINEX"]
-      date: "2018-04-13"
-      session:
-        premarket: "0000-1700"
-        market: "0000-1700"
-        postmarket: "1700-2400"
-        
-    - prefixes: ["SZSE"]
-      date: "2018-04-13"
-      session:
-        premarket: "2314-0300"
-        market: "0000-1700"
-        postmarket: undefined 
+ 
