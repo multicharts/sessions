@@ -72,7 +72,7 @@ sessions:
         market: "1700-1200"
         postmarket: undefined
         
-        - prefixes: ["KRAKEN"]
+    - prefixes: ["KRAKEN"]
       date: "2018-04-16"
       session:
         premarket: "1400-1900"
