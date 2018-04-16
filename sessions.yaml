@@ -52,10 +52,10 @@ sessions:
          post_market: "1600-2000"
          
     - prefixes: ["MOEX"]
-      date: "2018-04-14"
+      date: "2018-04-16"
       session:
         premarket: "0900-1200"
-        market: "1200-1500"
+        market: undefined
         postmarket: "1500-1700"
         
     - prefixes: ["KRAKEN"]
