@@ -43,20 +43,6 @@ sessions:
     - prefixes: ["XETR"]
       date: "2018-04-12"
       session: holiday
-     
-    - prefixes: ["NASDAQ"]
-      date: "2018-04-14"
-      session:
-         pre_market: "0400-0930"
-         market: "0930-1600"
-         post_market: "1600-2000"
-         
-    - prefixes: ["MOEX"]
-      date: "2018-04-16"
-      session:
-        premarket: "0900-1200"
-        market: undefined
-        postmarket: "1500-1700"
         
     - prefixes: ["KRAKEN"]
       date: "2018-04-14"
@@ -85,13 +71,6 @@ sessions:
         premarket: undefined
         market: "1445-1500"
         postmarket: "1500-1700"
-        
-    - prefixes: ["BITFINEX"]
-      date: "2018-04-16"
-      session:
-        premarket: "0000-1700"
-        market: "0000-1700"
-        postmarket: "1700-2400"
         
     - prefixes: ["SZSE"]
       date: "2018-04-16"
