@@ -100,9 +100,10 @@ sessions:
         market: "0300-0915"
         postmarket: "0800-1700"
     
-    - prefixes: ["KRAKEN"]
+    - prefixes: ["MOEX"]
       date: "2018-04-18"
       session:
-        premarket: undefined
-        market: "0000-0001"
-        postmarket: "0001-2100"
+        premarket: "0000-1230"
+        market: "1225-1235"
+        postmarket: "1232-1300"
+
