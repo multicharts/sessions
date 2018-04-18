@@ -96,9 +96,9 @@ sessions:
     - prefixes: ["BITTREX"]
       date: "2018-04-18"
       session:
-        premarket: undefined
-        market: "0300-0915"
-        postmarket: "0800-1700"
+        premarket: "0000-1700"
+        market: "0900-1900"
+        postmarket: undefined
     
     - prefixes: ["MOEX"]
       date: "2018-04-18"
