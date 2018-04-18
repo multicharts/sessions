@@ -103,7 +103,7 @@ sessions:
     - prefixes: ["MOEX"]
       date: "2018-04-18"
       session:
-        premarket: "0000-1230"
-        market: "1225-1235"
-        postmarket: "1232-1300"
+        premarket: undefined
+        market: "1225-1000"
+        postmarket: undefined
 
