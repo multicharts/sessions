@@ -8,3 +8,6 @@ sessions:
         market: "0930-1500"
         postmarket: undefined
 
+    - prefixes: ["DFM", "DFM_DLY"]
+      date: "2018-12-03"
+      session: holiday
