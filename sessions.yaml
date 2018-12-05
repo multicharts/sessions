@@ -12,6 +12,10 @@ sessions:
       date: "2018-12-03"
       session: holiday
       
-    - prefixes: ["BATS", "BATS_DLY", "NASDAQ", "NYSE", "AMEX", "OTC", "OTC_DLY"]
+    - prefixes: ["BATS", "BATS_DLY", "NASDAQ", "NYSE", "AMEX", "OTC", "OTC_DLY"] # George H.W. Bush Day of Mourning
+      date: "2018-12-05"
+      session: holiday
+      
+    - groups: ["custom_indices_internal"] # George H.W. Bush Day of Mourning
       date: "2018-12-05"
       session: holiday
