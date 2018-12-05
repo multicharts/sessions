@@ -8,6 +8,6 @@ sessions:
         market: "0930-1500"
         postmarket: undefined
 
-    - groups: ["amex_idc"]
+    - groups: [amex_idc]
       date: "2018-03-08"
       session: holiday
