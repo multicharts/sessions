@@ -11,3 +11,7 @@ sessions:
     - prefixes: ["DFM", "DFM_DLY"]
       date: "2018-12-03"
       session: holiday
+      
+    - prefixes: ["BATS", "BATS_DLY", "NASDAQ", "NYSE", "AMEX", "OTC", "OTC_DLY"]
+      date: "2018-12-05"
+      session: holiday
