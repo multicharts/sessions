@@ -16,6 +16,6 @@ sessions:
       date: "2018-12-05"
       session: holiday
       
-    - groups: ["custom_indices_internal"] # George H.W. Bush Day of Mourning
+    - groups: ["custom_indices"] # George H.W. Bush Day of Mourning
       date: "2018-12-05"
       session: holiday
