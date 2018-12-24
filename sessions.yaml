@@ -12,15 +12,15 @@ sessions:
     - prefixes: ["DFM", "DFM_DLY"]
       date: "2018-12-03"
       session: holiday
-      
+
     - prefixes: ["BATS", "BATS_DLY", "NASDAQ", "NYSE", "NYSE ARCA & MKT", "OTC", "OTC_DLY"] # George H.W. Bush Day of Mourning
       date: "2018-12-05"
       session: holiday
-      
+
     - groups: [custom_indices] # George H.W. Bush Day of Mourning
       date: "2018-12-05"
       session: holiday
-      
+
     - groups: [singapore_tvc_indices]
       date: "2018-12-24"
       session:
@@ -28,11 +28,11 @@ sessions:
         market: "0930-1230"
         postmarket: undefined
         session_extended: "0930-1230"
-        
+
     - groups: [singapore_tvc_indices]
       date: "2018-12-25"
       session: holiday
-      
+
     - groups: [hongkong_stocks, hongkong_indices]
       date: "2018-12-24"
       session:
@@ -44,7 +44,7 @@ sessions:
     - groups: [hongkong_stocks, hongkong_indices]
       date: "2018-12-25"
       session: holiday
-        
+
     - prefixes: ["NYSE", "NASDAQ", "TSX", "BATS", "NYSE ARCA & MKT", "TSXV", "TSX_DLY", "TSXV_DLY"]
       date: "2018-12-24"
       session:
@@ -52,7 +52,7 @@ sessions:
         market: "0930-1300"
         postmarket: undefined
         session_extended: "0400-1300"
-		
+
     - prefixes: ["OTC", "OTC_DLY"]
       date: "2018-12-24"
       session:
@@ -60,7 +60,7 @@ sessions:
         market: "0930-1400"
         postmarket: undefined
         session_extended: "0400-1400"
-		
+
     - prefixes: ["NZX", "NZX_DLY"]
       date: "2018-12-24"
       session:
@@ -68,7 +68,7 @@ sessions:
         market: "1000-1245"
         postmarket: undefined
         session_extended: "100-1245"
-		
+
     - prefixes: ["SGX", "SGX_DLY"]
       date: "2018-12-24"
       session:
@@ -76,7 +76,7 @@ sessions:
         market: "0900-1235"
         postmarket: undefined
         session_extended: "0900-1235"
-		
+
     - prefixes: ["BME", "BME_DLY"]
       date: "2018-12-24"
       session:
@@ -84,7 +84,7 @@ sessions:
         market: "0900-1400"
         postmarket: undefined
         session_extended: "0900-1400"
-		
+
     - prefixes: ["ASX", "ASX_DLY"]
       date: "2018-12-24"
       session:
@@ -92,7 +92,7 @@ sessions:
         market: "1000-1410"
         postmarket: undefined
         session_extended: "1000-1410"
-		
+
     - prefixes: ["LSE", "LSIN", "LSE_DLY", "LSIN_DLY"]
       date: "2018-12-24"
       session:
@@ -100,7 +100,7 @@ sessions:
         market: "0800-1230"
         postmarket: undefined
         session_extended: "0800-1230"
-		
+
     - prefixes: ["OMXBALTIC", "BCBA", "BCBA_DLY", "GPW", "GPW_DLY", "OMXNORDIC", "OMXNORDIC_DLY", "OMXSTO", "OMXSTO_DLY", "XETR", "XETR_DLY", "BMFBOVESPA", "BMFBOVESPA_DLY", "OMXICE", "OMXICE_DLY", "OMXCOP", "OMXCOP_DLY", "OMXVSE", "OMXVSE_DLY", "OMXTSE", "OMXTSE_DLY", "OMXHEX", "OMXHEX_DLY", "OMXRSE", "OMXRSE_DLY", "EURONEXT", "EURONEXT_DLY", "FWB", "FWB_DLY", "SWB", "SWB_DLY", "IDX", "IDX_DLY", "MIL", "MIL_DLY", "TSE", "TSE_DLY", "SIX", "SIX_DLY"]
       date: "2018-12-24"
       session: holiday
@@ -108,7 +108,7 @@ sessions:
     - prefixes: ["ASX", "ASX_DLY", "OMXBALTIC", "BCBA", "BCBA_DLY", "GPW", "GPW_DLY", "OMXNORDIC", "OMXNORDIC_DLY", "OMXSTO", "OMXSTO_DLY", "XETR", "XETR_DLY", "BMFBOVESPA", "BMFBOVESPA_DLY", "OMXICE", "OMXICE_DLY", "OMXCOP", "OMXCOP_DLY", "OMXVSE", "OMXVSE_DLY", "OMXTSE", "OMXTSE_DLY", "OMXHEX", "OMXHEX_DLY", "OMXRSE", "OMXRSE_DLY", "EURONEXT", "EURONEXT_DLY", "FWB", "FWB_DLY", "SWB", "SWB_DLY", "IDX", "IDX_DLY", "MIL", "MIL_DLY", "TSE", "TSE_DLY", "SIX", "SIX_DLY", "BCS", "BCS_DLY", "BVC", "BVC_DLY", "NSE", "NSE_DLY", "BSE", "BSE_DLY", "IDX_DLY", "IDX", "MIL", "MIL_DLY", "MYX", "MYX_DLY", "BMV", "BMV_DLY", "NZX", "NZX_DLY", "NSENG", "NSENG_DLY", "BVL", "BVL_DLY", "SGX", "SGX_DLY", "JSE", "JSE_DLY", "KRX", "KRX_DLY", "BME", "BME_DLY", "SIX", "SIX_DLY", "LSE", "LSIN", "OTC", "OTC_DLY", "NASDAQ", "NYSE", "NYSE ARCA & MKT", "BATS"]
       date: "2018-12-25"
       session: holiday
-	  
+
     - prefixes: ["FOREXCOM"]
       date: "2018-12-24"
       session:
@@ -124,7 +124,7 @@ sessions:
         market: "1700-1845"
         postmarket: undefined
         session_extended: "1700-1845"
- 
+
     - prefixes: ["FX"]
       date: "2018-12-31"
       session:
@@ -132,7 +132,7 @@ sessions:
         market: "1700-1845"
         postmarket: undefined
         session_extended: "1700-1845"
- 
+
     - groups: [european_indices]
       date: "2018-12-24"
       session: 
