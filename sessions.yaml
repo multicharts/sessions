@@ -107,7 +107,7 @@ sessions:
     - groups: [european_indices]
       date: "2018-12-24"
       session: 
-	    premarket: undefined
+        premarket: undefined
         market: "1000-1410"
         postmarket: undefined
         
