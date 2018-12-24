@@ -31,9 +31,10 @@ sessions:
       date: "2018-12-25"
       session: holiday
       
-    - groups: [hongkong_stocks]
+    - groups: [hongkong_stocks, hongkong_indices]
       date: "2018-12-24"
       session:
         premarket: undefined
         market: "0930-1210"
         postmarket: undefined
+        
