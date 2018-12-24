@@ -38,3 +38,76 @@ sessions:
         market: "0930-1210"
         postmarket: undefined
         
+        
+    - prefixes: ["NYSE, "NASDAQ", "TSX"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0930-1300"
+        postmarket: undefined
+		
+    - prefixes: ["OTC"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0930-1400"
+        postmarket: undefined
+		
+		
+    - prefixes: ["NZX"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "1000-1245"
+        postmarket: undefined
+		
+    - prefixes: ["SGX"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0900-1235"
+        postmarket: undefined
+		
+    - prefixes: ["BME"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0900-1400"
+        postmarket: undefined
+		
+		
+    - prefixes: ["ASX"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "1000-1410"
+        postmarket: undefined
+		
+		
+		
+    - prefixes: ["LSE", "LSIN"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0800-1230"
+        postmarket: undefined
+		
+		
+    - prefixes: ["BCBA", "GPW", "OMXNORDIC", "OMXSTO", "XETR", "BMFBOVESPA", "OMXICE", "OMXCOP", "OMXVSE", "OMXTSE", "OMXHEX", "OMXRSE", "EURONEXT", "FWB", "SWB", "IDX", "MIL", "TSE", "SIX"   ]
+      date: "2018-12-24"
+      session: holiday
+	  
+    - prefixes: ["FOREXCOM"]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0000-2200"
+        postmarket: undefined	  
+	  
+    - groups: [european_indices]
+      date: "2018-12-24"
+      session: 
+	    premarket: undefined
+        market: "1000-1410"
+        postmarket: undefined
+        
