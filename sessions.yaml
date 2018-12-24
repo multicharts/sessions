@@ -19,3 +19,14 @@ sessions:
     - groups: [custom_indices] # George H.W. Bush Day of Mourning
       date: "2018-12-05"
       session: holiday
+      
+    - groups: [singapore_tvc_indices]
+      date: "2018-12-24"
+      session:
+        premarket: undefined
+        market: "0930-1230"
+        postmarket: undefined
+        
+    - groups: [singapore_tvc_indices]
+      date: "2018-12-25"
+      session: holiday
