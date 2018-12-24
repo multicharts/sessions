@@ -67,7 +67,7 @@ sessions:
         premarket: undefined
         market: "1000-1245"
         postmarket: undefined
-        session_extended: "100-1245"
+        session_extended: "1000-1245"
 
     - prefixes: ["SGX", "SGX_DLY"]
       date: "2018-12-24"
