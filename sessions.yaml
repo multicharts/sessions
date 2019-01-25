@@ -140,3 +140,7 @@ sessions:
         premarket: undefined
         market: "1000-1410"
         postmarket: undefined
+        
+    - prefixes: ["BMFBOVESPA", "BMFBOVESPA_DLY"] # Sao Paulo City Anniversary
+      date: "2019-01-25"
+      session: holiday
