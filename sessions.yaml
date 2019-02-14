@@ -145,9 +145,9 @@ sessions:
       date: "2019-01-25"
       session: holiday
       
-    - prefixes: ["NSE_DLY"]
+    - prefixes: ["NSE_DLY","NSE"]
       date: "2019-02-14"
-      session_extended: "0915-1530"
+      session_extended: "0900-1630"
       session:
         premarket: undefined
         market: "0915-1530"
