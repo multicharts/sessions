@@ -145,7 +145,7 @@ sessions:
       date: "2019-01-25"
       session: holiday
       
-    - prefixes: ["NSE:RELIANCE"]
+    - prefixes: ["NSE_DLY"]
       date: "2019-02-14"
       session_extended: "0915-1530"
       session:
