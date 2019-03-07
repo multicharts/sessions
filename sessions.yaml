@@ -152,3 +152,7 @@ sessions:
         premarket: "0900-0915"
         market: "0915-1530"
         postmarket: "1530-1630"
+        
+    - prefixes: ["IDX", "IDX_DLY"] # hindu saka new year
+      date: "2019-03-07"
+      session: holiday
