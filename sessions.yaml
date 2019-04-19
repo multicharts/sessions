@@ -156,3 +156,7 @@ sessions:
     - prefixes: ["IDX", "IDX_DLY"] # hindu saka new year
       date: "2019-03-07"
       session: holiday
+
+    - prefixes: ["NSENG", "NSENG_DLY"] # Good Friday
+      date: "2019-04-19"
+      session: holiday
