@@ -157,6 +157,6 @@ sessions:
       date: "2019-03-07"
       session: holiday
 
-    - prefixes: ["NSENG", "NSENG_DLY", "CSE"] # Good Friday
+    - prefixes: ["NSENG", "NSENG_DLY", "CSE", "BYMA"] # Good Friday
       date: "2019-04-19"
       session: holiday
