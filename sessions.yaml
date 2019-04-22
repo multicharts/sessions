@@ -160,3 +160,28 @@ sessions:
     - prefixes: ["NSENG", "NSENG_DLY", "CSE", "BYMA"] # Good Friday
       date: "2019-04-19"
       session: holiday
+      
+    - groups: [telaviv_stocks,telaviv_indices]
+      date: "2019-02-22"
+      session_extended: "0900-1425"
+      session:
+        premarket: undefined
+        market: "0900-1425"
+        postmarket: undefined
+        
+    - groups: [telaviv_stocks,telaviv_indices]
+      date: "2019-02-23"
+      session_extended: "0900-1425"
+      session:
+        premarket: undefined
+        market: "0900-1425"
+        postmarket: undefined
+        
+    - groups: [telaviv_stocks,telaviv_indices]
+      date: "2019-02-24"
+      session_extended: "0900-1425"
+      session:
+        premarket: undefined
+        market: "0900-1425"
+        postmarket: undefined
+
