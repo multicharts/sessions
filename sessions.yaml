@@ -162,7 +162,7 @@ sessions:
       session: holiday
       
     - groups: [telaviv_stocks,telaviv_indices]
-      date: "2019-02-22"
+      date: "2019-04-22"
       session_extended: "0900-1425"
       session:
         premarket: undefined
@@ -170,7 +170,7 @@ sessions:
         postmarket: undefined
         
     - groups: [telaviv_stocks,telaviv_indices]
-      date: "2019-02-23"
+      date: "2019-04-23"
       session_extended: "0900-1425"
       session:
         premarket: undefined
@@ -178,7 +178,7 @@ sessions:
         postmarket: undefined
         
     - groups: [telaviv_stocks,telaviv_indices]
-      date: "2019-02-24"
+      date: "2019-04-24"
       session_extended: "0900-1425"
       session:
         premarket: undefined
