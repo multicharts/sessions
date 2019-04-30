@@ -185,3 +185,10 @@ sessions:
         market: "0900-1425"
         postmarket: undefined
 
+    - groups: [moex_futures,moex_continuous]
+      date: "2019-04-30"
+      session_extended: "1900-2350"
+      session:
+        premarket: undefined
+        market: "1900-2350"
+        postmarket: undefined
