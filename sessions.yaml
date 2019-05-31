@@ -192,3 +192,8 @@ sessions:
         premarket: undefined
         market: "1900-2350"
         postmarket: undefined
+        
+    - prefixes: ["OMXCOP", "OMXCOP_DLY"] # Sao Paulo City Anniversary
+      date: "2019-05-31"
+      session: holiday
+      
