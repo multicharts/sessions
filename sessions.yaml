@@ -216,3 +216,7 @@ sessions:
     - prefixes: ["IDX","IDX_DLY"] # Commemoration of Eid ul-Fitr 1440 Hijriyah
       date: "2019-06-07"
       session: holiday
+      
+    - prefixes: ["SET","SET_DLY"] # H.M.Queen Suthida Bajrasudhabimalalakshana's Birthday
+      date: "2019-06-03"
+      session: holiday
