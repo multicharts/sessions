@@ -240,3 +240,16 @@ sessions:
     - prefixes: ["DFM","DFM_DLY"] # Commemoration of Eid ul-Fitr 1440 Hijriyah
       date: "2019-06-07"
       session: holiday
+      
+    - prefixes: ["NSENG","NSENG_DLY"] # Id el Fitri
+      date: "2019-06-04"
+      session: holiday
+      
+    - prefixes: ["NSENG","NSENG_DLY"] # Id el Fitri
+      date: "2019-06-05"
+      session: holiday
+      
+    - prefixes: ["NSENG","NSENG_DLY"] # Democracy Day
+      date: "2019-06-12"
+      session: holiday
+      
