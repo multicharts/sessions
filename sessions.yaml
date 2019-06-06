@@ -253,3 +253,7 @@ sessions:
       date: "2019-06-12"
       session: holiday
       
+    - prefixes: ["OMXSTO","OMXSTO_DLY"] # National Day
+      date: "2019-06-06"
+      session: holiday
+      
