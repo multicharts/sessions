@@ -260,3 +260,7 @@ sessions:
     - prefixes: ["JSE","JSE_DLY"] # National Day
       date: "2019-06-17"
       session: holiday  
+      
+    - prefixes: ["BYMA","BYMA_DLY"] # Martin Miguel de Guemes Day
+      date: "2019-06-17"
+      session: holiday  
