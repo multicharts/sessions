@@ -257,3 +257,6 @@ sessions:
       date: "2019-06-06"
       session: holiday
       
+    - prefixes: ["JSE","JSE_DLY"] # National Day
+      date: "2019-06-17"
+      session: holiday  
