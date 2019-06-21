@@ -264,3 +264,11 @@ sessions:
     - prefixes: ["BYMA","BYMA_DLY"] # Martin Miguel de Guemes Day
       date: "2019-06-17"
       session: holiday  
+      
+    - prefixes: ["OMXSTO","OMXSTO_DLY"] # Midsummer eve
+      date: "2019-06-21"
+      session: holiday
+        
+    - prefixes: ["OMXHEX","OMXHEX_DLY"] # Midsummer eve
+      date: "2019-06-21"
+      session: holiday
