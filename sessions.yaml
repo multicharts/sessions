@@ -272,3 +272,7 @@ sessions:
     - prefixes: ["OMXHEX","OMXHEX_DLY"] # Midsummer eve
       date: "2019-06-21"
       session: holiday
+      
+    - prefixes: ["CSE","CSE_DLY","TSX","TSX_DLY"] # Canada Day
+      date: "2019-07-01"
+      session: holiday
