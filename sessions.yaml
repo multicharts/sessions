@@ -276,3 +276,7 @@ sessions:
     - prefixes: ["CSE","CSE_DLY","TSX","TSX_DLY"] # Canada Day
       date: "2019-07-01"
       session: holiday
+    
+    - prefixes: ["BCBA", "BCBA_DLY"]
+      date: "2019-07-08"
+      session: holiday
