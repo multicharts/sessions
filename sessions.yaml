@@ -277,6 +277,6 @@ sessions:
       date: "2019-07-01"
       session: holiday
     
-    - prefixes: ["BCBA", "BCBA_DLY"]
+    - prefixes: ["BYMA"]
       date: "2019-07-08"
       session: holiday
