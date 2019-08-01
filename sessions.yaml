@@ -280,3 +280,7 @@ sessions:
     - prefixes: ["BYMA"]
       date: "2019-07-08"
       session: holiday
+    
+    - prefixes: ["NSENG"]
+      date: "2019-08-01"
+      session: holiday
